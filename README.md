@@ -9,7 +9,7 @@
 [![Node.js](https://img.shields.io/badge/Node.js-Express-339933?style=flat-square&logo=node.js)](https://nodejs.org)
 [![MongoDB](https://img.shields.io/badge/MongoDB-Mongoose-47A248?style=flat-square&logo=mongodb)](https://mongodb.com)
 
-[Live Demo](https://leadflow-crm-rosy-eta.vercel.app/) · [Report Bug](../../issues) · [Request Feature](../../issues)
+[Live Demo](https://leadflow-crm-rosy-eta.vercel.app/) 
 
 </div>
 
